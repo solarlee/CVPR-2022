@@ -7,22 +7,8 @@ CVPR-2022
 
 开会时间：2022年6月19日-6月24日
 
-### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档也将持续收录更新，多多关注!!
+### ❣❣❣近日，[CVPR 2022 接收论文公布！ 总计2067篇！](https://mp.weixin.qq.com/s/WfzbGK34z3gIk1E9su8moA)，部分预印版论文也陆续发布中，本文档持续收录更新!!
 
-
-## 历年综述论文分类汇总戳这里↘️[CV-Surveys](https://github.com/52CV/CV-Surveys)施工中~~~~~~~~~~
-
-## 2022 年论文分类汇总戳这里
-↘️[CVPR-2022-Papers](https://github.com/52CV/CVPR-2022-Papers)
-↘️[WACV-2022-Papers](https://github.com/52CV/WACV-2022-Papers)
-
-## 2021年论文分类汇总戳这里
-↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
-↘️[CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
-
-## 2020 年论文分类汇总戳这里
-↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers)
-↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
 
 ### ❗❗❗ 4月29日更新 6 篇。
 
@@ -1091,6 +1077,5 @@ with Structured Variational Cross-Graph Correspondence Learning](https://arxiv.o
 [Scene Painting via Semantic Image Synthesis]<br>
 [Detector-Free Weakly Supervised Group Activity Recognition]<br>
 
-### 扫码CV君微信（注明：CVPR）入微信交流群：
-![9475fa20fd5e95235d9fa23ae9587a2](https://user-images.githubusercontent.com/62801906/156720309-de92964f-a6da-464a-b21f-cfb270c13e27.png)
+
 
